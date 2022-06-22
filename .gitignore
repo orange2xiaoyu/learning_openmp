@@ -1,0 +1,8 @@
+firstprivate_lastprivate
+gridcell_network
+gridcell_network.cpp
+openmp_for
+openmp_parallel
+openmp_private
+section
+test_openMP
